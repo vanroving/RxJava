@@ -1,3 +1,3 @@
 # RxJava
-Rxjava+Retrofit网络框架，Glide加载图片，点击图片加载大图左右滑动;;;;
+Rxjava+Retrofit网络框架，Glide加载图片，点击图片全屏，可以左右滑动放大缩小。
 
